@@ -1,12 +1,12 @@
 ## Hi there 👋
-- 🔭 I’m currently working on https://github.com/KoiKoiiKoiii/codewars
-- 🤔 I’m always looking for help with how to improve my code.
+- I’m currently working on https://github.com/KoiKoiiKoiii/python-scripts
+- I’m always looking for help with how to improve my code.
 
 
 
 - 📫 How to reach me:
     - Discord: KoiKoiiKoiii
-    - E-mail: caninenote@gmail.com
+    - E-mail: bschueller049@gmail.com
 <!--
 
 
